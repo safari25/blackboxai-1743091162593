@@ -1,0 +1,4 @@
+/* Temporary basic styles until build process is fixed */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
